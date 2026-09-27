@@ -1,0 +1,6 @@
+{
+  "name": "次元巡礼 · HolySpot",
+  "description": "多IP部落制圣地巡礼地图APP，覆盖动漫/番剧、KPOP爱豆实景；带LBS地图留言寻宝与AI零后期小红书一键打卡。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
